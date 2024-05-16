@@ -26,7 +26,7 @@ export class SideBarComponent {
     this.router.navigate(['/budget-planner/history']);
   }
   onLogout(){
-    this.router.navigate(['/budget-planner/login']);
+    this.router.navigate(['/login']);
   }
 
 }

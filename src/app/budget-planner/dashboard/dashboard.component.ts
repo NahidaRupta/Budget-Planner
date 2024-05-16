@@ -36,7 +36,7 @@ export class DashboardComponent {
     this.router.navigate(['/budget-planner/expense']);
   }
   onTodo() {
-    this.router.navigate(['/budget-planner/todo']);
+    this.router.navigate(['/budget-planner/to-do']);
   }
   
   
